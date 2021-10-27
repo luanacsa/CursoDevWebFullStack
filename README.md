@@ -9,31 +9,31 @@ O QUE VOCÊ VAI APRENDER?
 HTML 5 - 
 Aprenda a organizar o conteúdo do seu sistema web com o HTML. Você aprenderá a criar Sections, Formulários, tocar Vídeos e mais.
 
-CSS 3
+CSS 3 - 
 Aprenda a dar estilo e design ao seu projeto com o mais atual do CSS. Você aprenderá Flexbox, Grid, animações e muito mais.
 
-JAVASCRIPT
+JAVASCRIPT - 
 Crie sistemas profissionais e repletos de interatividade com o JavaScript. Você vai dominar orientação a objetos, filter, map, reducer, promises e mais.
 
-JQUERY
+JQUERY - 
 Ganhe agilidade com o jQuery, criando soluções com menos linhas de código. Ideal para não ficar perdido quando for dar manutenção em sistemas já criados.
 
-BOOTSTRAP
+BOOTSTRAP - 
 Use componentes padronizados e estilosos no seu projeto com o Bootstrap. Assim você criará interfaces muito mais rapidamente.
 
-REACT
+REACT - 
 Domine a criação de aplicativos web com o React e Redux. Desde aplicações simples às mais complexas com usos de Rotas protegidas e muito mais.
 
 
 # BACK END
 
-FIREBASE
+FIREBASE - 
 Aprenda esta solução completa de back end para aplicações mobile e web. Armazene seus dados com o Firestore e seus arquivos com o Firebase Storage.
 
-NODE JS
+NODE JS - 
 Crie sistemas web dinâmicos e complexos que rodam no back end. Faça aplicações utilizando REST, Socket, Express e outros módulos.
 
-MONGO DB
+MONGO DB - 
 Aprenda a construir bancos de dados com MongoDB para ter mais controle sobre a sua aplicação e criar sistemas com excelente performance.
 
 # Electron
