@@ -1,0 +1,6 @@
+- O navegador interpreta o HTML;
+- O HTML chama o CSS e o Javascript, se necessário.
+- Todo ponto de entrada de uma página da WEB é pelo HTML.
+- O HTML mostra o conteúdo que vai ser exibido da página web.
+- O CSS determina como esse conteúdo será exibido na página.
+- O Javascrip é responsável por executar as interações do usuário com a página.
