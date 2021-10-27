@@ -1,0 +1,15 @@
+Frontend e Backend
+
+- Quando digitamos o endereço de uma página web, no navegador, acessamos um servidor onde estão armazenados os arquivos desta página.
+
+- O servidor entregará os arquivos solicitados.
+
+- Executamos os arquivos na nossa máquina (cliente).
+
+- Todas as tecnologias usadas para executar na máquina do cliente, são feitas no FRONTEND.
+
+- Caso o servidor não seja apenas de arquivo, mas de aplicação, as requisições da máquina cliente passa pelo gerenciador da aplicação. As tecnologias usadas para processar as requisições do cliente na aplicação do servidor são feitas no BACKEND.
+
+- Chamamos de RENDERIZAÇÃO (server side rendering - SSR), a criação, em tempo real, de um documento HTML gerado pela aplicação do servidor, após receber requisição de um cliente.
+
+- Com o servidor de aplicação, podemos criar páginas dinâmicas.
