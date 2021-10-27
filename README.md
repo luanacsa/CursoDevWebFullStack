@@ -37,5 +37,5 @@ MONGO DB -
 Aprenda a construir bancos de dados com MongoDB para ter mais controle sobre a sua aplicação e criar sistemas com excelente performance.
 
 # Electron
-APRENDA A TRANSFORMAR SEU SISTEMA WEB EM UM APLICATIVO DESKTOP
+APRENDA A TRANSFORMAR SEU SISTEMA WEB EM UM APLICATIVO DESKTOP - 
 Neste módulo bônus de Electron você vai aprender a criar aplicações desktop utilizando linguagens web como JavaScript, HTML, CSS e React.
