@@ -6,7 +6,7 @@ O QUE VOCÊ VAI APRENDER?
 
 # FRONT END
 
-HTML 5
+HTML 5 - 
 Aprenda a organizar o conteúdo do seu sistema web com o HTML. Você aprenderá a criar Sections, Formulários, tocar Vídeos e mais.
 
 CSS 3
