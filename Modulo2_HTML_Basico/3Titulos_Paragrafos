@@ -1,0 +1,13 @@
+Títulos e Parágrafos
+
+A tag h1 é a tag mais importante das páginas, é, normalmente, o título principal da página ou artigo desta.
+
+ A tag <h2> é um subtítulo e a tag <h3> um título com menos importância, assim, sucessiva e gradativamente <h4>, <h5>, <h6>. 
+
+Com CSS podemos melhorar a estética dos títulos. Veremos isso no decorrer do curso.
+
+As boas práticas dizem que devemos utilizar apenas uma tag <h1> em uma página. E, se necessário, utilizar as demais tags “h”.
+
+Os parágrafos de um texto HTML ficam dentro da tag <p>.
+
+É importante organizar os códigos, realizando os devidos espaçamentos e indentações, para possibilitar, de forma mais agradável, legibilidade e manutenção.
