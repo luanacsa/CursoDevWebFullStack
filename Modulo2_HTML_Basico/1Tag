@@ -1,0 +1,15 @@
+O navegador não identifica parágrafos e linhas em um texto.
+
+Para indicar parágrafos e linhas, para o navegador, são usadas TAGS HTML.
+
+Exemplo de tag de AUTO FECHAMENTO -> <br>, <br/> (antes do HTML5).
+
+Exemplo de tags com ABERTURA e FECHAMENTO -> <p> Texto do parágrafo </p>.
+
+Quando queremos dar significado a um título, parágrafo ou qualquer parte do texto (SEMÂNTICA), no navegador, utilizamos as tags de abertura e fechamento respectivas à parte do texto.
+
+O conjunto de uma tag de abertura, o conteúdo (texto, áudio, foto, vídeo, etc) e uma tag de fechamento, chamamo de ELEMENTO HTML (exe.: elemento de título, elemento de parágrafo, etc).
+
+Quando o navegador ler os elementos (<h>Título</h>) de um texto, em HTML, ele vai organcizá-lo de acordo com cada tipo de elemento presente.
+
+Os mecanismos de busca (como o google) também utilizam as tags para dar valor diferente aos conteúdos presentes no elemento HTML.
