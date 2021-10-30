@@ -1,0 +1,22 @@
+Estrutura Básica de uma página HTML 
+
+Tudo que você precisa saber sobre HTML, CSS e JavaScript (documentação), encontra na https://www.w3schools.com/.
+
+Quando acessamos uma página web, no navegador, a requisição vai para o servidor, que procura, inicialmente, por um arquivo de nome index.html ou index.php.
+
+Para indicar ao navegador que estamos codificando um documento HTML 5, em um arquivo HTML, iniciamos o código com a tag <!DOCTYPE html>.
+
+Exemplo de tags de documentos HTML de versões antigas em https://www.w3schools.com/tags/tag_doctype.asp.
+
+A próxima tag da estrutura básica, onde todos os elementos HTML serão inseridos, é a tag <html></html>.
+
+Dentro da tag <html></html>, vamos colocar as tags filhas: <head></head> e <body></body>.
+
+A tag <head></head> recebe as tags de configuração do documento HTML.
+
+Dentro da tag <head></head> podemos colocar a tag do título da página: <title></title>. Também podemos colocar na tag <meta> o atributo charset com o valor “UTF-8” para indicar o formato de codificação de caracteres utilizado no documento.
+
+A tag <meta> também pode receber atributos que informem sobre dados como uma descrição do conteúdo da página, seu autor, data de criação, entre outras informações.
+
+A tag <body></body> recebe os elementos HTML que serão exibidos na página web.
+
