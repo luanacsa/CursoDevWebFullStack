@@ -1,0 +1,7 @@
+Comentários
+
+Comentários de código aparecem apenas no código, não no navegador.
+
+Comentários servem para os desenvolvedores identificarem o que certo pedaço de código faz, ao ser interpretado pelo navegador. Facilita na manutenção dos códigos.
+
+Formato de comentário: <!-- Comentário aqui -->.
