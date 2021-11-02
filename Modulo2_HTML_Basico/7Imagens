@@ -1,0 +1,16 @@
+Imagens
+
+<img> = tag que recebe o endereço de uma imagem (local ou remota);
+
+src = atributo da tag img que indica o caminho da imagem;
+
+alt = atributo que indica do que se trata a imagem, seja para uma eventual falha em carregar a imagem ou para um mecanismo de busca.
+
+width = atributo que altera a largura da imagem;
+
+height = atributo que altera a altura da imagem;
+
+* usados isoladamentes, os atributos de altura e largura mantém a proporcionalidade da imagem. usados juntos, esses atributos podem deformar a imagem dependento do tamanho escolhido em cada um.
+
+Exemplo:
+<img src="https://www.tecnonutrireceitas.com.br/central/Content/handlers/Receita.ashx?id=5391&tipo=r&default=s" alt="Sorverte de Morango">
