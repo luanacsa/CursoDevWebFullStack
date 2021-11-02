@@ -1,0 +1,14 @@
+Hyperlink
+
+Qualquer conteúdo da web pode ser convertido em um link, para que, quando clicado (ou ativado de outra forma) fará com que o navegador vá para outro endereço (URL).
+
+Exemplo:
+<p>Estou criando um link para
+    <a href="https://www.mozilla.org/pt-BR/" title="O melhor lugar para encontrar mais informações sobre a missão da Mozilla e como contribuir">a página inicial da Mozilla</a>.
+</p>
+
+<p> - parágrafo onde está inserido um hyperlink;
+<a> - elemento que recebe os atributos do hyperlink;
+href - atributo que aponta o destino do hyperlink;
+title - revelado apenas quando o mouse passa pelo link.
+
