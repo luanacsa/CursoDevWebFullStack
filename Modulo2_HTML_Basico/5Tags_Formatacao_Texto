@@ -1,0 +1,15 @@
+Tags de Formatação de Texto 
+
+Tag para colocar um texto em negrito: <b>texto em negrito</b> (sem semântica), <strong>texto em negrito</strong> (com semântica, rastreado pelos mecanismos de busca).
+
+Tag para colocar um texto em itálico: <i>texto em itálico</i> (sem semântica), <em>texto em itálico</em> (com semântica), rastreado pelos mecanismos de busca).
+
+Tag para marcar um texto: <mark>texto em itálico</mark>.
+
+Tag para deixar um trecho do texto menor: <small>text menor</small>.
+
+Tag para riscar um trecho do texto: <s>texto riscado</s> (sem semântica), <del>texto riscado</del> (com semântica), rastreado pelos mecanismos de busca).
+
+Tag para deixar um trecho do texto em um nível mais baixo: <sub>text subscrito</sub>.
+
+Tag para deixar um trecho do texto em um nível mais alto: <sup>text super escrito</sup>.
