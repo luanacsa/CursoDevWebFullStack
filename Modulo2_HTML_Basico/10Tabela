@@ -1,0 +1,29 @@
+Tabela
+
+<table> - tag de Tabela
+<tr> - tag da linha 
+<th> - tag do cabeçalho
+<td> - tag de dados
+
+Exemplo:
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Telefone</th>
+        <th>E-mail</th>
+    </tr>
+
+    <tr>
+        <td>Luana</td>
+        <td>999999999</td>
+        <td>contato@programadorbr.com</td>
+    </tr>
+            
+    <tr>
+        <td>Marcondes</td>
+        <td>988888888</td>
+        <td>marcondes@programadorbr.com</td>
+    </tr>
+        
+</table>
