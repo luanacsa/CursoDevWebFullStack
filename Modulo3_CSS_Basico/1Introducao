@@ -1,0 +1,14 @@
+Modificar cor de texto
+
+Modificar cor de fundo de elemento
+
+Modificar tamanho de uma fonte
+
+Maneiras de trabalhar com CSS: CSS inline, CSS interno, CSS externo
+
+CSS inline -  criado dentro de um atributo HTML (style)
+
+CSS interno - criado dentro de uma tag <style> na tag <head>
+
+CSS externo - criando em um arquivo exclusivo
+
