@@ -1,0 +1,14 @@
+CSS interno (tag <style>)
+
+<style> = tag do CSS interno
+p{} = seletor de elemento alvo do novo estilo
+color = propriedade do CSS
+blue = valor da propriedade
+
+Exemplo:
+<style>
+    p{
+        color: blue;
+    }
+</style>
+
