@@ -1,0 +1,10 @@
+Atributo Style (CSS in line)
+
+CSS - Cascading Style Sheets
+
+Style = Atributo
+color = propriedade do atributo
+red = valor da propriedade
+
+Exemplo:
+<p style="color:red;">Paragrafo de cor vermelha via CSS inline.</p>
