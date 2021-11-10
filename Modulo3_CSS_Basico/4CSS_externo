@@ -1,0 +1,11 @@
+Arquivo CSS (CSS externo)
+
+style.css = arquivo que guarda as configurações de CSS (extensão .css)
+
+<link> = tag usada no arquivo .html para ligá-lo ao arquivo .css (chamada dentro da tag <head>)
+
+href="./style.css" = atributo que indica qual arquivo .css está sendo ligado ao arquivo .html
+
+rel="stylesheet" = atributo que serve para você dizer qual o relacionamento do arquivo que você quer utilizar com o arquivo atual, no caso, você está dizendo que o arquivo importado é o arquivo responsável pelo estilo da sua página.
+
+
