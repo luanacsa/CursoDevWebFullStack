@@ -1,0 +1,11 @@
+Seletores Class e ID 
+
+Os seletores servem para selecionar um ou mais elementos HTML.
+
+Class = O atributo seletor, class, é usado quando você pretende aplicar as propriedades, declaradas no arquivo .css, em mais de um elemento. Quando pretendemos generalizar um conjunto de regras que sejam genéricas o bastante para serem aplicadas a um grupo de elementos.
+
+ID = Usando quando você pretende aplicar as propriedades declaradas no arquivo .css em somente um único elemento HTML, ou seja, com o objetivo de individualizar/diferenciar esse elemento dos demais.
+
+A prioridade de estilo de um ID está acima da prioridade de estilo de uma class, ou seja, no conflito entre esses seletores, em um código, o estido de um ID sempre sobreporá o estilo de uma class.
+
+O seletor ID também pode ser utilizado no atributo href de um tag <a> para rolar a página para um ponto específico da página, como título ou imagem.
