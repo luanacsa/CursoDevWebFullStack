@@ -1,0 +1,23 @@
+Sistema de Core
+
+Sistema de cor baseado em luz.
+R G B = Red Green Blue
+
+Sistema de Numeração Decimal
+De 0 até 9
+
+Sistema de Numeração Hexadecimal
+De 0 até 9 e de A até F
+
+RGB + Hexadecimal
+color: #FFFFFF = WRITE
+color: #000000 = BLACK
+
+RGB + Decimal
+color: rgd(255, 255, 255) = WRITE
+color: rgb(0, 0, 0) = BLACK
+
+RGB + Decimal + Canal Alfa
+color: rgba(0, 0, 0, 0) = BLACK TRANSPARENTE
+color: rgba(0, 0, 0, 1) = BLACK OPACO
+color: rgba(0, 0, 0, 0.5) = BLACK MEIO OPACO / MEIO TRANSPARENTE
