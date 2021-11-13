@@ -5,6 +5,9 @@
 
 #backgroundImage{
     background-image: url(../image/lousa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
     color: white;
     font-family: 'Petemoss', cursive;
     font-size: 50px;
@@ -12,9 +15,12 @@
 
 #backgroundRepeatPosition{
     border: solid green;
-    color: rgb(137, 135, 238);
+    color: rgb(11, 9, 136);
+    font-family: 'Petemoss', cursive;
+    font-size: 30px;
+
     background-image: url(../image/tree.png);
     background-repeat: no-repeat;
-    background-size: 130px;
+    background-size: 240px;
     background-position: right;
 }
