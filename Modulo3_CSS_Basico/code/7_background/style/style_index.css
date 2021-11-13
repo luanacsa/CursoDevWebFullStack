@@ -1,0 +1,20 @@
+#backgroundColor{
+    background-color: green;
+    color: whitesmoke;
+}
+
+#backgroundImage{
+    background-image: url(../image/lousa.jpg);
+    color: white;
+    font-family: 'Petemoss', cursive;
+    font-size: 50px;
+}
+
+#backgroundRepeatPosition{
+    border: solid green;
+    color: rgb(137, 135, 238);
+    background-image: url(../image/tree.png);
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: right;
+}

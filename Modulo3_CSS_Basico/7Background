@@ -1,0 +1,11 @@
+CSS Backgrounds
+
+As propriedades de background CSS são usadas para adicionar efeitos de fundo aos elementos.
+
+Propriedades de fundo CSS:
+background-color                      = propriedade que especifica a cor de fundo de um elemento.
+background-image                      = propriedade que especifica uma imagem a ser usada como plano de fundo de um elemento. Por padrão, a imagem é repetida para cobrir todo o elemento.
+background-repeat                     = Por padrão, a propriedade repete uma imagem horizontal e verticalmente.
+background-attachment                 = propriedade que especifica se a imagem de fundo deve rolar ou ser fixada (não rola com o resto da página)
+background-position                   = a propriedade é usada para especificar a posição da imagem de fundo.
+background (propriedade abreviada)    = Para encurtar o código, também é possível especificar todas as propriedades do fundo em uma única propriedade. Isso é chamado de propriedade abreviada.
