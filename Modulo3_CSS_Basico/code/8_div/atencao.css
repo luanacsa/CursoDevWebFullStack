@@ -1,0 +1,17 @@
+.atencao {
+    width: 25%; /* largura */
+    border: 10px ridge #f00;  /* Borda */
+    background-color: #ff0;   /* Cor de fundo */
+    padding: 0.5rem; /* preenchimento */
+    display: flex;   /* exibição */
+    flex-direction: column; /* direção */
+}
+
+.atencao img {
+    width: 100%;
+}
+
+.atencao p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}

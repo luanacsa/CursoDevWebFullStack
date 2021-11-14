@@ -1,0 +1,21 @@
+<div>: O elemento de divisão de conteúdo
+
+O elemento HTML <div> é o contêiner genérico para o *conteúdo do fluxo. Não tem efeito sobre o conteúdo ou layout até que seja estilizado de alguma forma usando CSS.
+
+Como um contêiner "puro", o elemento <div> não representa nada. Em vez disso, ele é usado para agrupar o conteúdo para que possa ser facilmente estilizado usando os atributos class ou id, marcando uma seção de um documento como sendo escrita em um idioma diferente (usando o atributo lang) e assim por diante.
+
+O elemento <div> não tem significado semântico para o navegador e nem para os mecanismos de busca.
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________
+
+*O conteúdo de fluxo é uma categoria ampla que engloba a maioria dos elementos que podem entrar no elemento <body>.
