@@ -1,0 +1,23 @@
+Unidades de Medidas de Referência (relativas)
+
+São unidades relativas a alguma outra coisa, talvez o tamanho da fonte do elemento pai ou o tamanho da janela de visualização. A vantagem de usar unidades relativas é que, com um planejamento cuidadoso, você pode fazer com que o tamanho do texto ou de outros elementos seja dimensionado em relação a tudo o mais na página.
+
+Algumas das unidades mais úteis para desenvolvimento web estão listadas abaixo:
+
+em = relativa ao tamanho da fonte do PAI, no caso de propriedades tipográficas, como font-size, e tamanho da fonte do próprio elemento, no caso de outras propriedades, como width.
+
+ex = relativa a altura x da fonte do elemento.
+
+ch - relativa a medida de avanço (largura) do glifo "0" da fonte do elemento.
+
+rem - relativa ao tamanho da fonte do elemento raiz.
+
+lh - relativa a altura da linha do elemento.
+
+vw - relativa a 1% da largura da janela de visualização.
+
+vh - relativa a 1% da altura da janela de visualização.
+
+vmin - relativa a 1% da dimensão menor da janela de visualização.
+
+vmax - relativa a 1% da dimensão maior da janela de visualização.
