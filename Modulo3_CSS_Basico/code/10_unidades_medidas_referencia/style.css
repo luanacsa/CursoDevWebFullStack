@@ -16,3 +16,62 @@ html{
 #rem_filho{
     font-size: 2rem;
 }
+
+/*Unidade vw*/
+#vw_pai{
+    color: white;
+    width: 50vw;
+    background: blue;
+}
+#vw_filho{
+    color: white;
+    width: 100px;
+    background: red;
+}
+
+/*Unidade vh*/
+#vh_pai{
+    color: white;
+    width: 50vh;
+    background: blue;
+}
+#vh_filho{
+    color: white;
+    width: 100px;
+    background: red;
+}
+
+/*Unidade vmin*/
+#vmin_pai{
+    color: white;
+    width: 50vmin;
+    background: blue;
+}
+#vmin_filho{
+    color: white;
+    width: 100px;
+    background: red;
+}
+
+/*Unidade vmax*/
+#vmax_pai{
+    color: white;
+    width: 50vmax;
+    background: blue;
+}
+#vmax_filho{
+    color: white;
+    width: 100px;
+    background: red;
+}
+
+/*Unidade %*/
+#porc_pai{
+    color: white;
+    width: 80%;
+    background: blue;
+}
+#porc_filho{
+    color: white;
+    width: 80%;
+    background: red;
